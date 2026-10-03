@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Emir Şeren
 
-<!--
-**emirseren100/emirseren100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Game Design student transitioning into full-stack development.
 
-Here are some ideas to get you started:
+I’m currently focused on building a strong foundation in web development and learning by creating real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently using
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Learning next
+- TypeScript
+- React
+- Testing
+- Node.js / Express
+- SQL / PostgreSQL
+- Next.js
+- Docker / Deployment
+
+## Projects
+- [StockFlow](https://github.com/emirseren100/stockflow) — Inventory dashboard built while learning JavaScript
+- [DevFlow](https://github.com/emirseren100/DevFlow) — AI-assisted full-stack issue and sprint tracker
+- [Follow Clarity](https://github.com/emirseren100/privacy-first-instagram-follow-analyzer) — Privacy-first Instagram follow analyzer
+- [Crypto Technical Analysis](https://github.com/emirseren100/Crypto-Technical-Analysis) — Windows desktop technical-analysis project
+
+## Links
+- Portfolio: https://emir-seren-portfolio.vercel.app
+- LinkedIn: https://www.linkedin.com/in/emirseren
